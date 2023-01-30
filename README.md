@@ -14,7 +14,7 @@
 
 <h2 align="center">Passionate <img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
-* 👋 I'm Kigozi Joseph Suubi aka Zeph, a passionate front-end developer currently enrolled for Microverse fullstack program. <br><br>
+* 👋 I'm Kigozi Joseph Suubi aka Zeph, a passionate front-end developer currently enrolled on the Microverse full-stack program. <br><br>
 
 * 🌳 I’m currently learning TypeScript, React, Ruby, Ruby on Rails and NextJS! <br><br>
 
@@ -22,9 +22,9 @@
 
 * :dizzy: My portfolio is available at [kigozijosephsuubi.me] (https://kigozijosephsubi.me)
 
-* ☕ Interest: Science, Math, Coffee, Chess, Environment protection, and Coding. <br>
+* ☕ My Interests are in Science, Math, Coffee, Chess, Environment protection, and Coding. <br>
 
-* :dart: Hobbies; Riding, Reading, Singing, Chess, Web Novel, and Twitter. <br><br>
+* :dart: My hobbies are Riding, Reading, Singing, Chess, Web Novel, and Twitter. <br><br>
 
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
