@@ -48,9 +48,11 @@
 
 <div align="center">
   <h2> <strong> 📚 Lets Connect </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
-   <a href="https://twitter.com/richards_zeph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richards_zeph" height="30" width="20" /></a> @richards_zeph
-
-      <a href="https://twitter.com/richards_zeph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richards_zeph" height="30" width="20" /></a> @richards_zeph
+   <p>
+      <a href="https://twitter.com/richards_zeph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richards_zeph" height="20" width="30" /></a>
+      <a href="https://www.linkedin.com/in/kigozi-joseph-suubi-19073a198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kigozi-joseph-suubi-19073a198" height="20" width="30" /></a>
+      <a href="https://www.hackerrank.com/zephrichards1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeph180" height="30" width="30" /></a>
+   </p>
 </div></br>
 <h2></h2>
 
@@ -86,8 +88,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=zeph180&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="80%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=zeph180&theme=radical" height="150" alt="streaks graph" />
 </div> <br>
-
-![zeph180's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=zeph180&custom_title=zeph180's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
 
 </br>
 
