@@ -48,6 +48,7 @@
 
 <div align="center">
   <h2> <strong> 📚 Lets Connect </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
+  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40richards_zeph)](https://twitter.com/richards_zeph)
 </div></br>
 <h2></h2>
 
