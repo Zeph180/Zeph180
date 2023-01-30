@@ -11,7 +11,6 @@
 
 <h2></h2>
 
-<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
 <h2 align="center">Passionate <img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
