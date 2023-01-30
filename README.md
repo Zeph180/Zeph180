@@ -20,7 +20,7 @@
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
-* :dizzy: My portfolio is available at [kigozijosephsuubi.me] (https://kigozijosephsubi.me)
+* :dizzy: My portfolio is available at https://kigozijosephsubi.me
 
 * ☕ My Interests are in Science, Math, Coffee, Chess, Environment protection, and Coding. <br>
 
@@ -48,7 +48,9 @@
 
 <div align="center">
   <h2> <strong> 📚 Lets Connect </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
-  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40richards_zeph)](https://twitter.com/richards_zeph)
+   <a href="https://twitter.com/richards_zeph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richards_zeph" height="30" width="20" /></a> @richards_zeph
+
+      <a href="https://twitter.com/richards_zeph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richards_zeph" height="30" width="20" /></a> @richards_zeph
 </div></br>
 <h2></h2>
 
