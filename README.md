@@ -81,16 +81,4 @@
 
 <h2></h2>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-
-<div align="center">
-  <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
-  <a href="https://github.com/Zeph180/my-portfolio-microverse"
-  target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" height="150px" alt="Authentic Pinoy Recipes"/>
-  </a>
-</div>
-
-<!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
 <img src="./assets/animated-wave.svg" />
