@@ -93,4 +93,3 @@
 
 <h2></h2>
 
-<img src="./assets/animated-wave.svg" />
