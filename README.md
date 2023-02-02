@@ -86,6 +86,7 @@
 <div align="center">
   <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=zeph180&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="80%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=zeph180&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="80%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=zeph180&theme=radical" height="150" alt="streaks graph" />
 </div> <br>
 
