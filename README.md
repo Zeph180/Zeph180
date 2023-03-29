@@ -69,13 +69,13 @@
   
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,html,css,js,atom,vscode,netlify,vercel,figma,linux,graphql,express" alt="skills logos" width="100%"/> <br> </br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,react,redux,,html,css,js,atom,vscode,netlify,vercel,figma,linux,graphql,express" alt="skills logos" width="100%"/> <br> </br>
 
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=react,redux,ts,tailwind,mongodb,nextjs,firebase,ruby,rails" alt="skills actively learning logos"> <br> <br>
+  <img src="https://skillicons.dev/icons?i=ts,tailwind,mongodb,nextjs,firebase,ruby,rails" alt="skills actively learning logos"> <br> <br>
 
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=angular,bots,cs,electron,flask,kotlin,r,tailwind,tensorflow,vue" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=angular,bots,cs,electron,flask,tailwind,tensorflow,vue" alt="skills planning to learn logos">
 </div></br>
 
 <h2></h2>
@@ -85,7 +85,6 @@
   
 <div align="center">
   <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=zeph180&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="80%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=zeph180&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="80%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=zeph180&theme=radical" height="150" alt="streaks graph" />
 </div> <br>
