@@ -20,7 +20,7 @@
 
 * 🐾 I’m looking to network and make friends here! <br>
 
-* :dizzy: My portfolio is available at https://kigozijosephsubi.me/
+* :dizzy: My portfolio is available at https://kigozijosephsuubi.me/
 
 * ☕ My Interests are in Science, Math, Coffee, Chess, Environment protection, and Coding. <br>
 
