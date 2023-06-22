@@ -1,19 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Kigozi+Joseph+aka+Zeph.;I'm+glad+you+are+here!" alt="Typing SVG" align="middle" width="100%" />
-
-<img src="./assets/borderseparator.gif" width="100%"/>
-
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-
-<p align="center"> 
-  <b>About me</b><br>
-</p>
-
-<h2></h2>
-
-
-<h2 align="center">Passionate <img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Kigozi+Joseph+aka+Zeph.;I'm+glad+you+are+here!" alt="Typing SVG" align="middle" width="100%" />
 * 👋 I'm Kigozi Joseph Suubi aka Zeph, a passionate front-end developer currently enrolled on the Microverse full-stack program. <br>
 
 * 🌳 I’m currently learning Ruby and Ruby on Rails <br>
