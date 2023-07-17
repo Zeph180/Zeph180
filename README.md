@@ -1,4 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Kigozi+Joseph+aka+Zeph.;I'm+glad+you+are+here!" alt="Typing SVG" align="middle" width="100%" />
+
 * 👋 I'm a passionate front-end developer currently enrolled on the Microverse full-stack program. <br>
 
 * 🌳 I’m currently learning Ruby and Ruby on Rails <br>
