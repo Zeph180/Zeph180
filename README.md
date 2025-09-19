@@ -1,70 +1,169 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Kigozi+Joseph+aka+Zeph.;I'm+glad+you+are+here!" alt="Typing SVG" align="middle" width="100%" />
-
-* 👋 I'm a passionate front-end developer currently enrolled on the Microverse full-stack program. <br>
-
-* 🌳 I’m currently learning Ruby and Ruby on Rails <br>
-
-* 🐾 I’m looking to network and make friends here! <br>
-
-* :dizzy: My portfolio is available at https://kigozijosephsuubi.me/
-
-* ☕ My Interests are in Science, Math, Coffee, Chess, Environment protection, and Coding. <br>
-
-* :dart: My hobbies are Riding, Reading, Singing, Chess, Web Novel, and Twitter. <br><br>
-
-
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-
+# 👋 Welcome to My GitLab Profile!
 
 <div align="center">
-  <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
-  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-</div></br><br>
-
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-
-
-<div align="center">
-  <h2> <strong> 📚 Lets Connect </strong> <img src="./assets/borderseparator.gif"/> </h2>
-   <p>
-      <a href="https://twitter.com/richards_zeph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richards_zeph" height="20" width="30" /></a>
-      <a href="https://www.linkedin.com/in/kigozi-joseph-suubi-19073a198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kigozi-joseph-suubi-19073a198" height="20" width="30" /></a>
-      <a href="https://www.hackerrank.com/zephrichards1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeph180" height="30" width="30" /></a>
-   </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hello%2C+I'm+Kigozi+Joseph+%F0%9F%91%8B;Full-Stack+Developer+%7C+3%2B+Years+Experience;Microservices+Architecture+Enthusiast;Welcome+to+my+digital+workspace!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+---
+
+## 🚀 About Me
+
+**Software Developer @ GTBank Uganda** | **Microservices Migration Lead**
+
+I'm a passionate full-stack developer with 3+ years of experience crafting robust backend APIs and dynamic frontend applications. Currently leading the transformation of monolithic banking systems into scalable microservices architecture at GT Bank Uganda.
+
+- 🏦 **Current Role**: Software Developer at GT Bank Uganda
+- 🔄 **Leading Initiative**: Co-leading migration from monolithic to microservices architecture
+- 💼 **Experience**: 3+ years in full-stack development
+- 🌍 **Location**: Kampala, Uganda
+- 🎯 **Focus**: Building scalable, maintainable, and secure financial applications
+
+---
+
+## 💻 Technical Expertise
+
+### 🔧 Backend Development
+```yaml
+Primary Stack:
+  - .NET Core / C# (3+ years)
+  - RESTful API Development
+  - Microservices Architecture
+  - Database Design & Optimization
   
-  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/>
+DevOps & CI/CD:
+  - GitLab CI/CD Pipelines
+  - Docker & Containerization
+  - Azure DevOps
+  - Infrastructure as Code
+```
+
+### 🎨 Frontend Development
+```yaml
+Frameworks & Libraries:
+  - React.js (SPA Development)
+  - React Native (Mobile Apps)
+  - Angular (Enterprise Applications)
+  - Ionic (Cross-platform Mobile)
+  
+Technologies:
+  - TypeScript/JavaScript
+  - HTML5 & CSS3
+  - State Management (Redux, NgRx)
+  - Responsive Design
+```
+
+---
+
+## 🏗️ Architecture & Design Patterns
+
+<div align="center">
+
+| **Microservices** | **API Design** | **DevOps** |
+|:-----------------:|:--------------:|:----------:|
+| Service Decomposition | RESTful APIs | GitLab CI/CD |
+| Domain-Driven Design | API Gateway | Docker |
+| Event-Driven Architecture | Authentication & Authorization | Monitoring |
+| Container Orchestration | Rate Limiting | Infrastructure Automation |
+
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### **Backend Technologies**
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+### **Frontend Technologies**
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+
+### **DevOps & Tools**
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+### 🏗️ **Microservices Migration Project**
+Leading the architectural transformation of GT Bank Uganda's core banking systems:
+
+- **Challenge**: Decomposing monolithic applications into scalable microservices
+- **Approach**: Domain-driven design principles and event-driven architecture
+- **Technologies**: .NET Core, Docker, GitLab CI/CD, Azure
+- **Impact**: Improved scalability, maintainability, and deployment flexibility
+
+### 📈 **Key Achievements**
+- Successfully migrated 5+ core banking modules to microservices
+- Implemented automated CI/CD pipelines reducing deployment time by 70%
+- Designed and developed 15+ RESTful APIs serving 10,000+ daily transactions
+- Built responsive web applications serving 500+ concurrent users
+
+---
+
+## 🌟 Professional Highlights
+
+```mermaid
+graph LR
+    A[Backend APIs] --> B[Microservices]
+    B --> C[CI/CD Pipeline]
+    C --> D[Frontend Apps]
+    D --> E[Mobile Solutions]
+    E --> F[Production Ready]
     
-  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img align="center" src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,react,redux,html,css,js,atom,vscode,netlify,vercel,figma,linux,graphql,express" alt="skills logos" width="80%"/> <br> </br>
+    style A fill:#e1f5fe
+    style B fill:#e8f5e8
+    style C fill:#fff3e0
+    style D fill:#f3e5f5
+    style E fill:#ffebee
+    style F fill:#e0f2f1
+```
 
-  <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=ts,tailwind,firebase,ruby,rails" alt="skills actively learning logos"> <br> <br>
+---
 
-  <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=angular,bots,cs,electron,flask,tailwind,tensorflow,vue" alt="skills planning to learn logos">
-</div></br>
+## 📊 Development Philosophy
 
-<h2></h2>
+> **"Clean Code, Scalable Architecture, Continuous Delivery"**
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-  
+- 🧹 **Clean Code**: Following SOLID principles and best practices
+- 🏗️ **Scalable Design**: Building systems that grow with business needs
+- 🚀 **DevOps Culture**: Embracing automation and continuous improvement
+- 🔒 **Security First**: Implementing secure coding practices in financial systems
+- 📈 **Performance Focused**: Optimizing for speed and efficiency
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to discuss technology, share knowledge, and explore collaboration opportunities!
+
 <div align="center">
-  <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=zeph180&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="90%" alt="Trophy" align="center" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=zeph180&theme=radical" height="150" alt="streaks graph" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kigozi-joseph-suubi-19073a198/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/richards_zeph)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 </div>
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-gitlab-username&color=4A90E2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <i>"Building the future of banking, one microservice at a time." 💙</i>
+</div>
